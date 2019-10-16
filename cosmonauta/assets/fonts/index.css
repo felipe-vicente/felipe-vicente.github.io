@@ -1,0 +1,13 @@
+@font-face {
+  font-family: 'cosmonauta_title';
+  src: url('cosmonauta_title.woff2') format('woff2'), url('cosmonauta_title.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'cosmonauta_body';
+  src: url('cosmonauta_body.woff2') format('woff2'), url('cosmonauta_body.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+}
