@@ -9,5 +9,8 @@
   "keywords": [],
   "author": "Felipe Vicente",
   "license": "ISC",
-  "packageManager": "pnpm@10.4.1"
+  "packageManager": "pnpm@10.4.1",
+  "dependencies": {
+    "vite": "^7.1.12"
+  }
 }
